@@ -1,0 +1,119 @@
+.game-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: 'Courier New', monospace;
+}
+
+.device-container {
+  width: 320px;
+  background-color: #2a2a2a;
+  border: 8px solid #0066CC;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.device-screen {
+  background-color: #1a1a1a;
+  border: 2px solid #FFD700;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 200px;
+  margin-bottom: 15px;
+  color: #FFD700;
+}
+
+.question-display {
+  text-align: center;
+}
+
+.program-info {
+  font-size: 1rem;
+  margin-bottom: 5px;
+  color: #00FF00;
+}
+
+.question-number {
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+}
+
+.question-text {
+  font-size: 1.2rem;
+  margin: 20px 0;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.options-display {
+  margin-top: 15px;
+}
+
+.option {
+  margin: 8px 0;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.feedback-display {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 40px 0;
+  color: #00FF00;
+  text-transform: uppercase;
+}
+
+.device-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.answer-button {
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+
+.answer-button:active {
+  transform: scale(0.95);
+}
+
+.answer-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.red { background-color: #FF0000; }
+.green { background-color: #00AA00; }
+.blue { background-color: #0066CC; }
+.yellow { background-color: #FFD700; color: black; }
+
+.device-footer {
+  display: flex;
+  justify-content: space-between;
+  color: #FFD700;
+  font-size: 0.9rem;
+}
+
+/* Efeito de tela LCD */
+.device-screen {
+  background: linear-gradient(
+    135deg,
+    rgba(10, 10, 10, 0.9),
+    rgba(30, 30, 30, 0.9)
+  );
+  text-shadow: 0 0 5px rgba(255, 215, 0, 0.3);
+}
