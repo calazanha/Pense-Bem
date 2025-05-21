@@ -112,7 +112,7 @@ const GameScreen = ({ onFinish, selectedProgram }) => {
         
         <div className="device-footer">
           <div className="score-display">PONTOS: {score}</div>
-          <div className="attempts-display">TENTATIVAS: {attempts + 1}/3</div>
+          <div className="attempts-display">TENTATIVAS: {attempts}/3</div>
         </div>
       </div>
     </div>
