@@ -1,6 +1,6 @@
 # Pense Bem 🏎️⚡⚽🧙🌌
 
-[![Deploy no Vercel](https://img.shields.io/badge/Deploy-Vercel-%23000000?style=for-the-badge&logo=vercel)](https://pense-bem-senninha.vercel.app/)
+[![Deploy no Vercel](https://img.shields.io/badge/Deploy-Vercel-%23000000?style=for-the-badge&logo=vercel)](https://pense-bem-calazanha.vercel.app/)
 [![Repositório GitHub](https://img.shields.io/badge/GitHub-Repositório-%23181717?style=for-the-badge&logo=github)](https://github.com/calazanha/pense-bem-senninha)
 
 Reviva a experiência nostálgica do clássico brinquedo "Pense Bem" da Tectoy, agora em versão digital com o tema do maior ídolo do automobilismo brasileiro!
