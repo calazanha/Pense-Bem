@@ -1,9 +1,8 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background-color: #000000;
   color: #FFFFFF;
-  font-family: 'Arial', sans-serif;
+  background: #000000;
 }
 
 .app {
@@ -11,9 +10,10 @@ body {
   margin: 0 auto;
   padding: 20px;
   min-height: 100vh;
-  background-color: #000000;
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(/public/images/background.png) center/cover no-repeat fixed;
   position: relative;
-  overflow: hidden;
 }
 
 .app::before {
@@ -29,12 +29,9 @@ body {
 
 button {
   background-color: #0066CC;
-  border: none;
+  border: 2px solid #FFD700;
   color: white;
   padding: 12px 24px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   margin: 10px 2px;
   cursor: pointer;
@@ -43,7 +40,6 @@ button {
   text-transform: uppercase;
   letter-spacing: 1px;
   transition: all 0.3s;
-  border: 2px solid #FFD700;
 }
 
 button:hover {
@@ -59,75 +55,49 @@ h1, h2, h3 {
   font-family: 'Racing Sans One', cursive;
 }
 
-/* Responsividade */
-@media (min-width: 768px) {
+/* Responsividade Mobile First */
+@media (max-width: 600px) {
   .app {
-    padding: 30px;
+    padding: 15px;
   }
-  
+
+  .start-screen h1 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+
+  .device-container {
+    width: 95%;
+    max-width: 300px;
+    padding: 10px;
+  }
+
   button {
     padding: 10px 20px;
     font-size: 14px;
   }
 }
 
+@media (min-width: 601px) and (max-width: 767px) {
+  .app {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .app {
+    padding: 30px;
+  }
+  
+  button {
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+}
+
 @media (min-width: 1024px) {
   .app {
-    max-width: 900px;
-    margin: 0 auto;
+    max-width: 1200px;
     padding: 40px;
-  }
-}
-
-@media (max-width: 600px) {
-  .start-screen h1 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-  }
-
-  .device-container {
-    width: 90%;
-    max-width: 320px;
-    padding: 15px;
-    border-width: 6px;
-  }
-
-  .device-screen {
-    padding: 10px;
-    min-height: 80px;
-  }
-
-  .selected-program {
-    font-size: 1.3rem;
-  }
-
-  .program-buttons {
-    gap: 8px;
-    margin-bottom: 12px;
-  }
-
-  .program-button {
-    height: 36px;
-    font-size: 1rem;
-  }
-
-  .start-button {
-    height: 45px;
-    font-size: 1.1rem;
-  }
-}
-
-@media (max-width: 400px) {
-  .start-screen h1 {
-    font-size: 1.8rem;
-  }
-
-  .program-button {
-    height: 32px;
-    font-size: 0.9rem;
-  }
-
-  .start-button {
-    height: 42px;
   }
 }

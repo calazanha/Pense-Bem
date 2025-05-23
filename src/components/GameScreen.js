@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import {useState} from 'react';
 import './styles/GameScreen.css';
 import programa1 from '../data/programa1';
 import programa2 from '../data/programa2';
@@ -88,7 +88,7 @@ const GameScreen = ({ onFinish, selectedProgram }) => {
             A
           </button>
           <button 
-            className="answer-button green" 
+            className="answer-button yellow" 
             onClick={() => handleAnswer(1)}
             disabled={showFeedback}
           >
@@ -102,7 +102,7 @@ const GameScreen = ({ onFinish, selectedProgram }) => {
             C
           </button>
           <button 
-            className="answer-button yellow" 
+            className="answer-button green" 
             onClick={() => handleAnswer(3)}
             disabled={showFeedback}
           >

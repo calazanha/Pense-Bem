@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Pense Bem - Senninha 🏁🚗
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Deploy no Vercel](https://img.shields.io/badge/Deploy-Vercel-%23000000?style=for-the-badge&logo=vercel)](https://pense-bem-senninha.vercel.app/)
+[![Repositório GitHub](https://img.shields.io/badge/GitHub-Repositório-%23181717?style=for-the-badge&logo=github)](https://github.com/calazanha/pense-bem-senninha)
 
-## Available Scripts
+Reviva a experiência nostálgica do clássico brinquedo "Pense Bem" da Tectoy, agora em versão digital com o tema do maior ídolo do automobilismo brasileiro!
 
-In the project directory, you can run:
+**Acesse agora:**  
+👉 [pense-bem-senninha.vercel.app](https://pense-bem-senninha.vercel.app/) 👈
 
-### `npm start`
+## 🎯 Visão Geral
+Jogo educativo inspirado no dispositivo dos anos 90, com:
+- 5 programas temáticos sobre Ayrton Senna
+- 150 perguntas baseadas no livro original
+- Experiência totalmente responsiva
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Funcionalidades
+✅ **Navegação por programas**  
+✅ **Sistema de pontuação progressiva**  
+✅ **Feedback imediato de acertos/erros**  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tecnologias
+- **Frontend**: ReactJS
+- **Estilização**: CSS Modules
+- **Deploy**: Vercel
 
-### `npm test`
+## 📦 Como Executar Localmente
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/pense-bem-senninha.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Instale as dependências
+npm install
 
-### `npm run build`
+# Inicie a aplicação
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🕹 Como Jogar
+1. Selecione um programa na tela inicial
+2. Responda usando os botões coloridos:
+   - 🔴 Vermelho: Alternativa A
+   - 🟢 Verde: Alternativa B
+   - 🔵 Azul: Alternativa C
+   - 🟡 Amarelo: Alternativa D
+3. Acumule pontos (até 3 por pergunta)
+4. Complete os 5 programas e dispute o topo do ranking!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🗂 Estrutura do Projeto
+```
+pense-bem-senninha/
+├── public/           # Assets estáticos
+|   ├──  images/      # Imagens e arquivos públicos
+├── src/
+│   ├── components/   # Componentes reutilizáveis
+│   ├── data/         # Banco de perguntas (JSON)
+│   ├── styles/       # Estilos globais
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📌 Próximas Atualizações
+- [ ] Efeitos sonoros retro
+- [ ] Modo desafio contra o relógio
+- [ ] Modo multiplayer online
+- [ ] Sistema de conquistas
+- [ ] Personalização de avatar
+- [ ] Integração com API de rankings
 
-### `npm run eject`
+## 📜 Licença
+Projeto desenvolvido para fins educacionais. Todo conteúdo sobre Ayrton Senna pertence ao **[Instituto Ayrton Senna](https://institutoayrtonsenna.org.br)**.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Desenvolvido por Calazanha**  
+💡 Uma homenagem à infância e ao maior ícone do automobilismo brasileiro!  
+🎮 Jogue agora: [pense-bem-senninha.vercel.app](https://pense-bem-senninha.vercel.app/)
+``` 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este README inclui:
+1. Badges de deploy e repositório
+2. Link do Vercel destacado
+3. Seção de "Próximas Atualizações"
+4. Organização visual melhorada
+5. Compatibilidade com GitHub Markdown

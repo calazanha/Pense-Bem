@@ -7,7 +7,7 @@ const StartScreen = ({ onStart, selectedProgram, setSelectedProgram }) => {
 
   return (
     <div className="start-screen">
-      <h1>PENSE BEM - SENNINHA</h1>
+      <h1>PENSE BEM</h1>
       
       <div className="device-container">
         <div className="device-screen">

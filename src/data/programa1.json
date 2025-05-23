@@ -12,5 +12,201 @@
     "opcoes": ["1984", "1985", "1986", "1987"],
     "resposta": 0,
     "programa": 1
+  },
+  {
+    "id": 3,
+    "pergunta": "Quantos títulos mundiais de Fórmula 1 Ayrton Senna conquistou?",
+    "opcoes": ["1", "2", "3", "4"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 4,
+    "pergunta": "Em qual equipe Senna conquistou seu primeiro título mundial?",
+    "opcoes": ["Williams", "Lotus", "McLaren", "Brabham"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 5,
+    "pergunta": "Quantas vezes Senna venceu o GP de Mônaco?",
+    "opcoes": ["4", "5", "6", "7"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 6,
+    "pergunta": "Em que ano Senna conquistou seu primeiro título mundial?",
+    "opcoes": ["1985", "1988", "1990", "1991"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual era o nome do seu principal rival na F1?",
+    "opcoes": ["Nelson Piquet", "Alain Prost", "Nigel Mansell", "Michael Schumacher"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 8,
+    "pergunta": "Em que circuito ocorreu o acidente fatal de Senna?",
+    "opcoes": ["Monza", "Suzuka", "Silverstone", "Imola"],
+    "resposta": 3,
+    "programa": 1
+  },
+  {
+    "id": 9,
+    "pergunta": "Quantas pole positions Senna conquistou na carreira?",
+    "opcoes": ["41", "65", "78", "54"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 10,
+    "pergunta": "Em que ano Senna terminou em 2º lugar no GP do Mônaco com a Toleman?",
+    "opcoes": ["1982", "1984", "1986", "1988"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual foi uma marca registrada do capacete de Senna?",
+    "opcoes": ["Listras vermelhas", "Estrelas douradas", "Cores da bandeira do Brasil", "Asas laterais"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual motor equipava o McLaren de Senna em 1988?",
+    "opcoes": ["Honda", "Ford", "Renault", "Ferrari"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 13,
+    "pergunta": "Em qual GP Senna fez a 'Volta Perfeita' em 1993?",
+    "opcoes": ["Donington Park", "Monza", "Interlagos", "Suzuka"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual instituição caritativa Senna ajudou a fundar?",
+    "opcoes": ["Instituto Ayrton Senna", "Fundação SOS Mata Atlântica", "Pastoral da Criança", "Amigos do Bem"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 15,
+    "pergunta": "Com quantos anos Senna começou no kart?",
+    "opcoes": ["10", "13", "15", "17"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual foi o primeiro GP que Senna venceu?",
+    "opcoes": ["Brasil 1985", "Portugal 1985", "Mônaco 1987", "Japão 1988"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 17,
+    "pergunta": "Em que ano Senna venceu seu último GP?",
+    "opcoes": ["1991", "1993", "1994", "1995"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual era o número do carro de Senna na McLaren?",
+    "opcoes": ["5", "12", "1", "27"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual destes NÃO foi um apelido de Senna?",
+    "opcoes": ["Magic", "Rei da Chuva", "O Mito", "Batman"],
+    "resposta": 3,
+    "programa": 1
+  },
+  {
+    "id": 20,
+    "pergunta": "Em qual GP Senna dirigiu com câmbio travado em 1991?",
+    "opcoes": ["Brasil", "Mônaco", "Itália", "Japão"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 21,
+    "pergunta": "Quantos GPs do Japão Senna venceu?",
+    "opcoes": ["2", "3", "4", "5"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual era a cor predominante do capacete de Senna?",
+    "opcoes": ["Vermelho", "Amarelo", "Azul", "Verde"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 23,
+    "pergunta": "Em que ano Senna conquistou o tricampeonato?",
+    "opcoes": ["1989", "1990", "1991", "1993"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual era o modelo do carro da Toleman em 1984?",
+    "opcoes": ["TG183", "TG184", "TG185", "TG186"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 25,
+    "pergunta": "Que honraria póstuma Senna recebeu no Brasil?",
+    "opcoes": ["Herói Nacional", "Patrono do Esporte", "Cidadão Honorário", "Ordem do Mérito"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual era o nome da irmã de Ayrton Senna?",
+    "opcoes": ["Viviane", "Adriane", "Patrícia", "Isabel"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 27,
+    "pergunta": "Quem morreu no mesmo fim de semana do acidente de Senna?",
+    "opcoes": ["Roland Ratzenberger", "Gilles Villeneuve", "Ronnie Peterson", "Jules Bianchi"],
+    "resposta": 0,
+    "programa": 1
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual combustível era usado pelo McLaren de Senna?",
+    "opcoes": ["Petrobras", "Shell", "Esso", "BP"],
+    "resposta": 1,
+    "programa": 1
+  },
+  {
+    "id": 29,
+    "pergunta": "Quantas voltas lideradas Senna tem na F1?",
+    "opcoes": ["1.987", "2.015", "2.298", "2.541"],
+    "resposta": 2,
+    "programa": 1
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual destes pilotos NÃO foi companheiro de equipe de Senna?",
+    "opcoes": ["Gerhard Berger", "Damon Hill", "Alain Prost", "Johnny Cecotto"],
+    "resposta": 1,
+    "programa": 1
   }
 ]
