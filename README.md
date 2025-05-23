@@ -1,4 +1,4 @@
-# Pense Bem 🏁🚗
+# Pense Bem 🏎️⚡⚽🧙🌌
 
 [![Deploy no Vercel](https://img.shields.io/badge/Deploy-Vercel-%23000000?style=for-the-badge&logo=vercel)](https://pense-bem-senninha.vercel.app/)
 [![Repositório GitHub](https://img.shields.io/badge/GitHub-Repositório-%23181717?style=for-the-badge&logo=github)](https://github.com/calazanha/pense-bem-senninha)
@@ -10,8 +10,14 @@ Reviva a experiência nostálgica do clássico brinquedo "Pense Bem" da Tectoy, 
 
 ## 🎯 Visão Geral
 Jogo educativo inspirado no dispositivo dos anos 90, com:
-- 5 programas temáticos sobre: Ayrton Senna, Pokémon, Futebol Brasileiro, etc...
-- Experiência totalmente responsiva
+
+- 🏎️ **Ayrton Senna**
+- ⚡ **Pokémon**
+- ⚽ **Futebol Brasileiro**
+- 🧙 **Harry Potter**
+- 🌌 **Star Wars**
+
+Interface totalmente responsiva e divertida!
 
 ## ✨ Funcionalidades
 ✅ **Navegação por programas**  
