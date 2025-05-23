@@ -1,16 +1,212 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual foi o primeiro time de Ayrton Senna na F1?",
-    "opcoes": ["Lotus", "McLaren", "Toleman", "Williams"],
-    "resposta": 2,
-    "programa": 1
+    "pergunta": "Qual destes é o Pokémon inicial tipo Planta de Kanto?",
+    "opcoes": ["Chikorita", "Bulbasaur", "Treecko", "Turtwig"],
+    "resposta": 1,
+    "programa": 2
   },
   {
     "id": 2,
-    "pergunta": "Em que ano Senna venceu seu primeiro GP?",
-    "opcoes": ["1984", "1985", "1986", "1987"],
+    "pergunta": "Qual pedra evolui Eevee para Espeon?",
+    "opcoes": ["Pedra do Sol", "Pedra da Lua", "Pedra do Trovão", "Pedra da Água"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 3,
+    "pergunta": "Quem é o líder do Ginásio de Pedra em Kanto?",
+    "opcoes": ["Misty", "Brock", "Surge", "Blaine"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual tipo é supereficaz contra Dragão?",
+    "opcoes": ["Gelo", "Elétrico", "Inseto", "Dragão"],
+    "resposta": 3,
+    "programa": 2
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual destes é um Pokémon lendário de Johto?",
+    "opcoes": ["Lugia", "Zapdos", "Groudon", "Dialga"],
     "resposta": 0,
-    "programa": 1
+    "programa": 2
+  },
+  {
+    "id": 6,
+    "pergunta": "Quantos badges são necessários para desafiar a Liga Pokémon em Sinnoh?",
+    "opcoes": ["6", "7", "8", "9"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual o tipo primário de Gyarados?",
+    "opcoes": ["Água", "Dragão", "Voador", "Noturno"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual destes Pokémon tem uma mega evolução?",
+    "opcoes": ["Charizard", "Feraligatr", "Typhlosion", "Sceptile"],
+    "resposta": 3,
+    "programa": 2
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual item é necessário para evoluir Porygon para Porygon2?",
+    "opcoes": ["Up-Grade", "Disco Estranho", "Protetor", "Escama Dragão"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual destes movimentos é do tipo Fantasma?",
+    "opcoes": ["Bola Sombria", "Hiper Raio", "Surf", "Corte"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual Pokémon mitológico pode ser encontrado na Ilha Navel?",
+    "opcoes": ["Mew", "Celebi", "Jirachi", "Manaphy"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual o tipo combinado de Torterra?",
+    "opcoes": ["Planta/Terra", "Plata/Pedra", "Planta/Água", "Planta/Lutador"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual destes é o estágio final de Totodile?",
+    "opcoes": ["Croconaw", "Feraligatr", "Totodile", "Bayleef"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 14,
+    "pergunta": "Em qual geração foi introduzido o tipo Aço?",
+    "opcoes": ["1ª", "2ª", "3ª", "4ª"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual destes Pokémon é do tipo Dragão/Voador?",
+    "opcoes": ["Salamence", "Garchomp", "Dragonite", "Altaria"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual o nome do professor Pokémon em Hoenn?",
+    "opcoes": ["Carvalho", "Iris", "Birch", "Rowan"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual destes é um ataque signature do Pikachu no anime?",
+    "opcoes": ["Choque do Trovão", "Jato d'Água", "Lança-Chamas", "Folha Navalha"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual Pokémon precisa segurar a Sea Incense para evoluir?",
+    "opcoes": ["Marill", "Azurill", "Clamperl", "Feebas"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 19,
+    "pergunta": "Quantos tipos elementares existiam até a 4ª geração?",
+    "opcoes": ["15", "17", "18", "20"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual destes é o Pokémon número 151 na Pokédex de Kanto?",
+    "opcoes": ["Mewtwo", "Mew", "Arceus", "Celebi"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual líder de ginásio usa Pokémon do tipo Fantasma em Johto?",
+    "opcoes": ["Morty", "Whitney", "Jasmine", "Pryce"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual destes Pokémon evolui quando trocado segurando Protetor?",
+    "opcoes": ["Rhydon", "Electabuzz", "Magmar", "Porygon"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 23,
+    "pergunta": "Em qual cidade fica o Ginásio de Sootopolis em Hoenn?",
+    "opcoes": ["Ever Grande", "Lilycove", "Mossdeep", "Sootopolis"],
+    "resposta": 3,
+    "programa": 2
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual o tipo do lendário Rayquaza?",
+    "opcoes": ["Dragão/Voador", "Dragão/Elétrico", "Dragão/Fogo", "Dragão/Água"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual destes itens aumenta o poder de ataques do tipo Pedra?",
+    "opcoes": ["Carvão", "Lenha", "Pedra Dura", "Pó Estelar"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual Pokémon mitológico está associado ao Oceano?",
+    "opcoes": ["Kyogre", "Groudon", "Rayquaza", "Regigigas"],
+    "resposta": 0,
+    "programa": 2
+  },
+  {
+    "id": 27,
+    "pergunta": "Quantas formas diferentes tem Unown?",
+    "opcoes": ["26", "28", "30", "32"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual destes Pokémon evolui com felicidade durante o dia?",
+    "opcoes": ["Eevee", "Budew", "Riolu", "Togepi"],
+    "resposta": 1,
+    "programa": 2
+  },
+  {
+    "id": 29,
+    "pergunta": "Qual destes ataques foi introduzido na 4ª geração?",
+    "opcoes": ["Bola Sombria", "Investida", "Pulso do Dragão", "Hiper Raio"],
+    "resposta": 2,
+    "programa": 2
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual o primeiro líder de ginásio em Sinnoh?",
+    "opcoes": ["Roark", "Gardenia", "Maylene", "Crasher Wake"],
+    "resposta": 0,
+    "programa": 2
   }
 ]

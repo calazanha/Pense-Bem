@@ -1,4 +1,4 @@
-# Pense Bem - Senninha 🏁🚗
+# Pense Bem 🏁🚗
 
 [![Deploy no Vercel](https://img.shields.io/badge/Deploy-Vercel-%23000000?style=for-the-badge&logo=vercel)](https://pense-bem-senninha.vercel.app/)
 [![Repositório GitHub](https://img.shields.io/badge/GitHub-Repositório-%23181717?style=for-the-badge&logo=github)](https://github.com/calazanha/pense-bem-senninha)
@@ -6,12 +6,11 @@
 Reviva a experiência nostálgica do clássico brinquedo "Pense Bem" da Tectoy, agora em versão digital com o tema do maior ídolo do automobilismo brasileiro!
 
 **Acesse agora:**  
-👉 [pense-bem-senninha.vercel.app](https://pense-bem-senninha.vercel.app/) 👈
+👉 [pense-bem-calazanha.vercel.app](https://pense-bem-calazanha.vercel.app/) 👈
 
 ## 🎯 Visão Geral
 Jogo educativo inspirado no dispositivo dos anos 90, com:
-- 5 programas temáticos sobre Ayrton Senna
-- 150 perguntas baseadas no livro original
+- 5 programas temáticos sobre: Ayrton Senna, Pokémon, Futebol Brasileiro, etc...
 - Experiência totalmente responsiva
 
 ## ✨ Funcionalidades
@@ -27,7 +26,7 @@ Jogo educativo inspirado no dispositivo dos anos 90, com:
 ## 📦 Como Executar Localmente
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/pense-bem-senninha.git
+git clone https://github.com/calazanha/Pense-Bem.git
 
 # Instale as dependências
 npm install
@@ -48,7 +47,7 @@ npm start
 
 ## 🗂 Estrutura do Projeto
 ```
-pense-bem-senninha/
+pense-bem/
 ├── public/           # Assets estáticos
 |   ├──  images/      # Imagens e arquivos públicos
 ├── src/
@@ -60,19 +59,14 @@ pense-bem-senninha/
 ## 📌 Próximas Atualizações
 - [ ] Efeitos sonoros retro
 - [ ] Modo desafio contra o relógio
-- [ ] Modo multiplayer online
 - [ ] Sistema de conquistas
-- [ ] Personalização de avatar
 - [ ] Integração com API de rankings
-
-## 📜 Licença
-Projeto desenvolvido para fins educacionais. Todo conteúdo sobre Ayrton Senna pertence ao **[Instituto Ayrton Senna](https://institutoayrtonsenna.org.br)**.
 
 ---
 
 **Desenvolvido por Calazanha**  
 💡 Uma homenagem à infância e ao maior ícone do automobilismo brasileiro!  
-🎮 Jogue agora: [pense-bem-senninha.vercel.app](https://pense-bem-senninha.vercel.app/)
+🎮 Jogue agora: [pense-bem-senninha.vercel.app](https://pense-bem-calazanha.vercel.app/)
 ``` 
 
 Este README inclui:

@@ -1,16 +1,242 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual foi o primeiro time de Ayrton Senna na F1?",
-    "opcoes": ["Lotus", "McLaren", "Toleman", "Williams"],
-    "resposta": 2,
-    "programa": 1
+    "pergunta": "Qual o estádio do Flamengo?",
+    "opcoes": ["Maracanã", "São Januário", "Nilton Santos", "Raulino de Oliveira"],
+    "resposta": 0,
+    "programa": 3
+
   },
   {
     "id": 2,
-    "pergunta": "Em que ano Senna venceu seu primeiro GP?",
-    "opcoes": ["1984", "1985", "1986", "1987"],
+    "pergunta": "Quantos títulos brasileiros o Fluminense possui?",
+    "opcoes": ["2", "4", "6", "8"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual jogador é conhecido como 'Rei do Rio' no Vasco?",
+    "opcoes": ["Romário", "Edmundo", "Roberto Dinamite", "Juninho Pernambucano"],
     "resposta": 0,
-    "programa": 1
+    "programa": 3
+
+  },
+  {
+    "id": 4,
+    "pergunta": "Botafogo é chamado de:",
+    "opcoes": ["Gigante da Colina", "Estrela Solitária", "Time da Virada", "Tricolor"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 5,
+    "pergunta": "Em que ano o Flamengo conquistou sua primeira Libertadores?",
+    "opcoes": ["1981", "1987", "1995", "2019"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual o maior artilheiro do Fluminense?",
+    "opcoes": ["Fred", "Telê Santana", "Rivellino", "Waldo Machado"],
+    "resposta": 3,
+    "programa": 3
+
+  },
+  {
+    "id": 7,
+    "pergunta": "São Januário é o estádio do:",
+    "opcoes": ["Vasco", "Botafogo", "Flamengo", "Fluminense"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual destes é o clássico entre Vasco e Botafogo?",
+    "opcoes": ["Clássico dos Milhões", "Fla-Flu", "Clássico da Amizade", "Vascão x Fogão"],
+    "resposta": 3,
+    "programa": 3
+
+  },
+  {
+    "id": 9,
+    "pergunta": "Quantas Libertadores tem o Vasco?",
+    "opcoes": ["0", "1", "2", "3"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual o ano de fundação do Botafogo?",
+    "opcoes": ["1898", "1904", "1912", "1920"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 11,
+    "pergunta": "Quem é o maior ídolo do Flamengo?",
+    "opcoes": ["Zico", "Adriano", "Petković", "Gabigol"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual o apelido do Fluminense?",
+    "opcoes": ["Tricolor", "Rubro-Negro", "Alvi-Negro", "Gigante"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 13,
+    "pergunta": "Em que década o Vasco conquistou a Libertadores?",
+    "opcoes": ["Anos 80", "Anos 90", "Anos 2000", "Nunca conquistou"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual o mascote do Botafogo?",
+    "opcoes": ["Urubu", "Galo", "Manequinho", "Biriba"],
+    "resposta": 3,
+    "programa": 3
+
+  },
+  {
+    "id": 15,
+    "pergunta": "Quantos estaduais o Flamengo tem?",
+    "opcoes": ["35", "39", "40", "42"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual destes técnicos é símbolo do Fluminense?",
+    "opcoes": ["Zagallo", "Telê Santana", "Tite", "Abel Braga"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 17,
+    "pergunta": "O Vasco foi fundado por:",
+    "opcoes": ["Imigrantes italianos", "Comerciantes portugueses", "Operários brasileiros", "Atletas amadores"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual jogador fez 'Gol de Placa' no Botafogo?",
+    "opcoes": ["Garrincha", "Jairzinho", "Túlio Maravilha", "Nílton Santos"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual o clássico entre Flamengo e Fluminense?",
+    "opcoes": ["Fla-Flu", "Clássico dos Milhões", "Vascão x Fogão", "Pai-Filho"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 20,
+    "pergunta": "Quantas Copas do Brasil o Fluminense possui?",
+    "opcoes": ["1", "3", "5", "Nenhuma"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual o ano do primeiro título carioca do Botafogo?",
+    "opcoes": ["1907", "1930", "1948", "1962"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual destes NÃO é um título do Vasco?",
+    "opcoes": ["Libertadores 1998", "Mundial 2000", "Brasileirão 1997", "Copa do Brasil 2011"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual o maior artilheiro do Flamengo?",
+    "opcoes": ["Zico", "Gabigol", "Adriano", "Petković"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual estádio o Botafogo manda seus jogos?",
+    "opcoes": ["Maracanã", "Nilton Santos", "São Januário", "Caio Martins"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 25,
+    "pergunta": "Quantos títulos da Copa do Brasil tem o Vasco?",
+    "opcoes": ["1", "3", "5", "Nenhum"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual destes é um apelido do Flamengo?",
+    "opcoes": ["Mengão", "Tricolor", "Gigante", "Fogão"],
+    "resposta": 0,
+    "programa": 3
+
+  },
+  {
+    "id": 27,
+    "pergunta": "Em que ano o Fluminense foi rebaixado pela primeira vez?",
+    "opcoes": ["1996", "1998", "2009", "2013"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual jogador é símbolo do Botafogo?",
+    "opcoes": ["Garrincha", "Jairzinho", "Túlio Maravilha", "Nílton Santos"],
+    "resposta": 3,
+    "programa": 3
+
+  },
+  {
+    "id": 29,
+    "pergunta": "Quantos títulos mundiais tem o Flamengo?",
+    "opcoes": ["0", "1", "2", "3"],
+    "resposta": 1,
+    "programa": 3
+
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual o primeiro clube carioca campeão brasileiro?",
+    "opcoes": ["Flamengo", "Fluminense", "Vasco", "Botafogo"],
+    "resposta": 2,
+    "programa": 3
+
   }
 ]
