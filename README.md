@@ -45,9 +45,9 @@ npm start
 1. Selecione um programa na tela inicial
 2. Responda usando os botões coloridos:
    - 🔴 Vermelho: Alternativa A
-   - 🟢 Verde: Alternativa B
+   - 🟡 Amarelo: Alternativa B
    - 🔵 Azul: Alternativa C
-   - 🟡 Amarelo: Alternativa D
+   - 🟢 Verde: Alternativa D 
 3. Acumule pontos (até 3 por pergunta)
 4. Complete os 5 programas e dispute o topo do ranking!
 
