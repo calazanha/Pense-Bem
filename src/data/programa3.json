@@ -5,7 +5,6 @@
     "opcoes": ["Maracanã", "São Januário", "Nilton Santos", "Raulino de Oliveira"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 2,
@@ -13,7 +12,6 @@
     "opcoes": ["2", "4", "6", "8"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 3,
@@ -21,7 +19,6 @@
     "opcoes": ["Romário", "Edmundo", "Roberto Dinamite", "Juninho Pernambucano"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 4,
@@ -29,7 +26,6 @@
     "opcoes": ["Gigante da Colina", "Estrela Solitária", "Time da Virada", "Tricolor"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 5,
@@ -37,7 +33,6 @@
     "opcoes": ["1981", "1987", "1995", "2019"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 6,
@@ -45,7 +40,6 @@
     "opcoes": ["Fred", "Telê Santana", "Rivellino", "Waldo Machado"],
     "resposta": 3,
     "programa": 3
-
   },
   {
     "id": 7,
@@ -53,7 +47,6 @@
     "opcoes": ["Vasco", "Botafogo", "Flamengo", "Fluminense"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 8,
@@ -61,7 +54,6 @@
     "opcoes": ["Clássico dos Milhões", "Fla-Flu", "Clássico da Amizade", "Vascão x Fogão"],
     "resposta": 3,
     "programa": 3
-
   },
   {
     "id": 9,
@@ -69,7 +61,6 @@
     "opcoes": ["0", "1", "2", "3"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 10,
@@ -77,7 +68,6 @@
     "opcoes": ["1898", "1904", "1912", "1920"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 11,
@@ -85,7 +75,6 @@
     "opcoes": ["Zico", "Adriano", "Petković", "Gabigol"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 12,
@@ -93,7 +82,6 @@
     "opcoes": ["Tricolor", "Rubro-Negro", "Alvi-Negro", "Gigante"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 13,
@@ -101,7 +89,6 @@
     "opcoes": ["Anos 80", "Anos 90", "Anos 2000", "Nunca conquistou"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 14,
@@ -109,7 +96,6 @@
     "opcoes": ["Urubu", "Galo", "Manequinho", "Biriba"],
     "resposta": 3,
     "programa": 3
-
   },
   {
     "id": 15,
@@ -117,7 +103,6 @@
     "opcoes": ["35", "39", "40", "42"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 16,
@@ -125,7 +110,6 @@
     "opcoes": ["Zagallo", "Telê Santana", "Tite", "Abel Braga"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 17,
@@ -133,7 +117,6 @@
     "opcoes": ["Imigrantes italianos", "Comerciantes portugueses", "Operários brasileiros", "Atletas amadores"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 18,
@@ -141,7 +124,6 @@
     "opcoes": ["Garrincha", "Jairzinho", "Túlio Maravilha", "Nílton Santos"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 19,
@@ -149,7 +131,6 @@
     "opcoes": ["Fla-Flu", "Clássico dos Milhões", "Vascão x Fogão", "Pai-Filho"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 20,
@@ -157,7 +138,6 @@
     "opcoes": ["1", "3", "5", "Nenhuma"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 21,
@@ -165,7 +145,6 @@
     "opcoes": ["1907", "1930", "1948", "1962"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 22,
@@ -173,7 +152,6 @@
     "opcoes": ["Libertadores 1998", "Mundial 2000", "Brasileirão 1997", "Copa do Brasil 2011"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 23,
@@ -181,7 +159,6 @@
     "opcoes": ["Zico", "Gabigol", "Adriano", "Petković"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 24,
@@ -189,7 +166,6 @@
     "opcoes": ["Maracanã", "Nilton Santos", "São Januário", "Caio Martins"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 25,
@@ -197,7 +173,6 @@
     "opcoes": ["1", "3", "5", "Nenhum"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 26,
@@ -205,7 +180,6 @@
     "opcoes": ["Mengão", "Tricolor", "Gigante", "Fogão"],
     "resposta": 0,
     "programa": 3
-
   },
   {
     "id": 27,
@@ -213,7 +187,6 @@
     "opcoes": ["1996", "1998", "2009", "2013"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 28,
@@ -221,7 +194,6 @@
     "opcoes": ["Garrincha", "Jairzinho", "Túlio Maravilha", "Nílton Santos"],
     "resposta": 3,
     "programa": 3
-
   },
   {
     "id": 29,
@@ -229,7 +201,6 @@
     "opcoes": ["0", "1", "2", "3"],
     "resposta": 1,
     "programa": 3
-
   },
   {
     "id": 30,
@@ -237,6 +208,5 @@
     "opcoes": ["Flamengo", "Fluminense", "Vasco", "Botafogo"],
     "resposta": 2,
     "programa": 3
-
   }
 ]

@@ -1,16 +1,212 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual foi o primeiro time de Ayrton Senna na F1?",
-    "opcoes": ["Lotus", "McLaren", "Toleman", "Williams"],
-    "resposta": 2,
-    "programa": 1
+    "pergunta": "Qual a data de nascimento de Harry Potter?",
+    "opcoes": ["31 de outubro", "31 de julho", "25 de dezembro", "1º de maio"],
+    "resposta": 1,
+    "programa": 4
   },
   {
     "id": 2,
-    "pergunta": "Em que ano Senna venceu seu primeiro GP?",
-    "opcoes": ["1984", "1985", "1986", "1987"],
+    "pergunta": "Que animal Harry descobre que pode falar no primeiro livro?",
+    "opcoes": ["Coruja", "Cobra", "Gato", "Rato"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual o nome do espelho que mostra os desejos mais profundos?",
+    "opcoes": ["Espelho de Oogled", "Espelho de Erised", "Espelho da Alvorada", "Espelho dos Inimigos"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 4,
+    "pergunta": "Qual a forma do Patrono de Hermione?",
+    "opcoes": ["Lontra", "Cachorro", "Fênix", "Cervo"],
     "resposta": 0,
-    "programa": 1
+    "programa": 4
+  },
+  {
+    "id": 5,
+    "pergunta": "Que poção exige um elemento do corpo da pessoa?",
+    "opcoes": ["Poção Polissuco", "Poção do Morto-Vivo", "Veritaserum", "Poção do Amor"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual Horcrux foi destruído com a espada de Gryffindor?",
+    "opcoes": ["Diário de Tom Riddle", "Anel de Servolo Gaunt", "Medalhão de Slytherin", "Taça de Hufflepuff"],
+    "resposta": 2,
+    "programa": 4
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual o nome completo de Dumbledore?",
+    "opcoes": ["Alvo Percival Wulfrico Brian Dumbledore", "Alvo Brian Wulfrico Percival Dumbledore", "Alvo Severo Percival Brian Dumbledore", "Alvo Wulfrico Brian Percival Dumbledore"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 8,
+    "pergunta": "Quem é o Príncipe Mestiço?",
+    "opcoes": ["Severo Snape", "Sirius Black", "Tom Riddle", "Tiago Potter"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual o lema da Grifinória?",
+    "opcoes": ["Sangue puro acima de tudo", "Sonhe e espere", "Nunca trairemos nossos amigos", "Cuidado com o que deseja"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual criatura guarda a Câmara Secreta?",
+    "opcoes": ["Acromântula", "Basilisco", "Dragão", "Troll"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 11,
+    "pergunta": "Que presente Sirius dá a Harry?",
+    "opcoes": ["Vassoura Firebolt", "Mapa do Maroto", "Capa da Invisibilidade", "Olho Mágico"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual o nome da organização fundada por Dumbledore para combater Voldemort?",
+    "opcoes": ["A Ordem da Fênix", "A Armada de Dumbledore", "Os Comensais da Morte", "O Ministério da Magia"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual a maldição que matou os pais de Harry?",
+    "opcoes": ["Avada Kedavra", "Crucio", "Imperio", "Expelliarmus"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 14,
+    "pergunta": "Quantos pontos o Chapéu Seletor dá para Neville no primeiro ano?",
+    "opcoes": ["5", "10", "15", "20"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual o nome do irmão de Dumbledore?",
+    "opcoes": ["Aberforth", "Algernon", "Armando", "Arturo"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 16,
+    "pergunta": "Que criatura é Fawkes?",
+    "opcoes": ["Hipogrifo", "Testrálio", "Fênix", "Dragão"],
+    "resposta": 2,
+    "programa": 4
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual o nome da mãe de Draco Malfoy?",
+    "opcoes": ["Narcisa", "Belatriz", "Dolores", "Petúnia"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 18,
+    "pergunta": "O que significa 'Expecto Patronum'?",
+    "opcoes": ["Protejo com fogo", "Espero um patrono", "Expulso as trevas", "Destruo os inimigos"],
+    "resposta": 1,
+    "programa": 4
+  },
+  {
+    "id": 19,
+    "pergunta": "Qual professor ensina Adivinhação?",
+    "opcoes": ["Sibila Trelawney", "Minerva McGonagall", "Quirino Quirrell", "Gilderoy Lockhart"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 20,
+    "pergunta": "Que objeto Harry recebe de Dumbledore em seu primeiro Natal?",
+    "opcoes": ["Capa da Invisibilidade", "Varinha de Teixo", "Pedra Filosofal", "Diário Misterioso"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual o nome do grupo fundado por Harry para ensinar Defesa Contra as Artes das Trevas?",
+    "opcoes": ["Armada de Dumbledore", "Ordem da Fênix", "Tropa de Choque", "Sociedade de São Vítor"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 22,
+    "pergunta": "Que feitiço abre portas trancadas?",
+    "opcoes": ["Alohomora", "Expelliarmus", "Lumos", "Wingardium Leviosa"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual o nome do pai de Draco Malfoy?",
+    "opcoes": ["Lucius", "Severus", "Cornelius", "Bartô"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 24,
+    "pergunta": "Que animal é o patrono de Luna Lovegood?",
+    "opcoes": ["Lebre", "Coruja", "Cavalo", "Lontra"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 25,
+    "pergunta": "Qual a profissão dos pais de Hermione?",
+    "opcoes": ["Dentistas", "Professores", "Advogados", "Médicos"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual o ingrediente mais perigoso da Poção Polissuco?",
+    "opcoes": ["Pele de salamandra", "Sangue de unicórnio", "Pêlo de homem-lobo", "Lágrima de fênix"],
+    "resposta": 2,
+    "programa": 4
+  },
+  {
+    "id": 27,
+    "pergunta": "Quem escreve os artigos difamatórios sobre Harry no 'Profeta Diário'?",
+    "opcoes": ["Rita Skeeter", "Dolores Umbridge", "Luna Lovegood", "Gilderoy Lockhart"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual o nome do irmão de Ron que morre na Batalha de Hogwarts?",
+    "opcoes": ["Fred", "George", "Percy", "Charlie"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 29,
+    "pergunta": "Que tipo de criatura é Aragogue?",
+    "opcoes": ["Aranha gigante", "Serpente", "Troll", "Dragão"],
+    "resposta": 0,
+    "programa": 4
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual o último Horcrux a ser destruído?",
+    "opcoes": ["Diário", "Taça", "Nagini", "Diadema"],
+    "resposta": 2,
+    "programa": 4
   }
 ]

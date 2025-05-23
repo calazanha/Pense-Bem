@@ -1,16 +1,212 @@
 [
   {
     "id": 1,
-    "pergunta": "Qual foi o primeiro time de Ayrton Senna na F1?",
-    "opcoes": ["Lotus", "McLaren", "Toleman", "Williams"],
-    "resposta": 2,
-    "programa": 1
+    "pergunta": "Quem atirou primeiro, Han Solo?",
+    "opcoes": ["Greedo", "Han Solo", "Ambos ao mesmo tempo", "Ninguém"],
+    "resposta": 1,
+    "programa": 5
   },
   {
     "id": 2,
-    "pergunta": "Em que ano Senna venceu seu primeiro GP?",
-    "opcoes": ["1984", "1985", "1986", "1987"],
+    "pergunta": "Qual o nome do planeta natal de Luke Skywalker?",
+    "opcoes": ["Tatooine", "Naboo", "Alderaan", "Hoth"],
     "resposta": 0,
-    "programa": 1
+    "programa": 5
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual o nome da nave de Han Solo?",
+    "opcoes": ["X-Wing", "Slave I", "Millennium Falcon", "Star Destroyer"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 4,
+    "pergunta": "Quem é o pai de Luke Skywalker?",
+    "opcoes": ["Obi-Wan Kenobi", "Yoda", "Darth Vader", "Mace Windu"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 5,
+    "pergunta": "Quem treinou Luke Skywalker em Dagobah?",
+    "opcoes": ["Obi-Wan", "Yoda", "Qui-Gon", "Anakin"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual o nome verdadeiro de Darth Vader?",
+    "opcoes": ["Ben Kenobi", "Anakin Skywalker", "Luke Skywalker", "Sheev Palpatine"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 7,
+    "pergunta": "Quem foi o criador de C-3PO?",
+    "opcoes": ["Leia", "Obi-Wan", "Anakin Skywalker", "Padmé"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual o nome do mestre Sith de Darth Vader?",
+    "opcoes": ["Darth Maul", "Darth Sidious", "Darth Plagueis", "Count Dooku"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 9,
+    "pergunta": "Quem matou o Imperador Palpatine no Episódio VI?",
+    "opcoes": ["Luke Skywalker", "Leia", "Darth Vader", "Yoda"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual o modelo do caça usado por Luke na Batalha de Yavin?",
+    "opcoes": ["Y-Wing", "TIE Fighter", "X-Wing", "A-Wing"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 11,
+    "pergunta": "Quem disse 'É uma armadilha!'?",
+    "opcoes": ["Luke", "Han", "Leia", "Almirante Ackbar"],
+    "resposta": 3,
+    "programa": 5
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual personagem é um wookiee?",
+    "opcoes": ["Chewbacca", "Yoda", "Lando", "Boba Fett"],
+    "resposta": 0,
+    "programa": 5
+  },
+  {
+    "id": 13,
+    "pergunta": "O que é um Jedi?",
+    "opcoes": ["Um caçador de recompensas", "Um Sith", "Um usuário da Força do lado claro", "Um droid"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 14,
+    "pergunta": "Quem é o irmão de Leia Organa?",
+    "opcoes": ["Chewbacca", "Luke Skywalker", "Han Solo", "Obi-Wan"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 15,
+    "pergunta": "Quem derrotou Darth Maul em A Ameaça Fantasma?",
+    "opcoes": ["Anakin", "Yoda", "Qui-Gon", "Obi-Wan"],
+    "resposta": 3,
+    "programa": 5
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual o nome do planeta da cidade flutuante Bespin?",
+    "opcoes": ["Hoth", "Endor", "Bespin", "Dagobah"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 17,
+    "pergunta": "Quem é o líder supremo da Primeira Ordem?",
+    "opcoes": ["Kylo Ren", "Snoke", "Palpatine", "Hux"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual é o sabre de luz de cor usada por Mace Windu?",
+    "opcoes": ["Azul", "Verde", "Vermelho", "Roxo"],
+    "resposta": 3,
+    "programa": 5
+  },
+  {
+    "id": 19,
+    "pergunta": "Quem matou Han Solo em O Despertar da Força?",
+    "opcoes": ["Kylo Ren", "Rey", "Snoke", "General Hux"],
+    "resposta": 0,
+    "programa": 5
+  },
+  {
+    "id": 20,
+    "pergunta": "O que é a Estrela da Morte?",
+    "opcoes": ["Uma nave rebelde", "Um sabre de luz", "Uma estação espacial de destruição", "Uma lua"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 21,
+    "pergunta": "Quem foi o ator original de Luke Skywalker?",
+    "opcoes": ["Harrison Ford", "Mark Hamill", "Ewan McGregor", "Adam Driver"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 22,
+    "pergunta": "O que significa 'Sith'?",
+    "opcoes": ["Ordem Jedi", "Ordem do lado sombrio", "Caçadores", "Robôs de batalha"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 23,
+    "pergunta": "Quem foi a mãe de Luke e Leia?",
+    "opcoes": ["Padmé Amidala", "Rey", "Leia Organa", "Ahsoka Tano"],
+    "resposta": 0,
+    "programa": 5
+  },
+  {
+    "id": 24,
+    "pergunta": "O que é um sabre de luz?",
+    "opcoes": ["Arma dos stormtroopers", "Arma Jedi e Sith", "Nave de transporte", "Planeta"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 25,
+    "pergunta": "Quem é o mentor de Anakin Skywalker?",
+    "opcoes": ["Yoda", "Qui-Gon Jinn", "Obi-Wan Kenobi", "Mace Windu"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual o planeta florestal onde vivem os Ewoks?",
+    "opcoes": ["Endor", "Naboo", "Tatooine", "Kashyyyk"],
+    "resposta": 0,
+    "programa": 5
+  },
+  {
+    "id": 27,
+    "pergunta": "Quem pilotou a Millennium Falcon na Batalha de Endor?",
+    "opcoes": ["Han Solo", "Lando Calrissian", "Chewbacca", "Leia Organa"],
+    "resposta": 1,
+    "programa": 5
+  },
+  {
+    "id": 28,
+    "pergunta": "Quem foi o criador da saga Star Wars?",
+    "opcoes": ["Steven Spielberg", "James Cameron", "George Lucas", "J.J. Abrams"],
+    "resposta": 2,
+    "programa": 5
+  },
+  {
+    "id": 29,
+    "pergunta": "Quem era o caçador de recompensas que capturou Han Solo?",
+    "opcoes": ["Greedo", "Jango Fett", "Dengar", "Boba Fett"],
+    "resposta": 3,
+    "programa": 5
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual personagem apareceu em todos os nove filmes da saga principal?",
+    "opcoes": ["C-3PO", "Luke", "Leia", "Han Solo"],
+    "resposta": 0,
+    "programa": 5
   }
 ]
