@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "pergunta": "Quem atirou primeiro, Han Solo?",
+    "pergunta": "Quem atirou primeiro?",
     "opcoes": ["Greedo", "Han Solo", "Ambos ao mesmo tempo", "Ninguém"],
     "resposta": 1,
     "programa": 5
