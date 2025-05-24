@@ -8,9 +8,9 @@
   },
   {
     "id": 2,
-    "pergunta": "Qual pedra evolui Eevee para Espeon?",
+    "pergunta": "Qual pedra evolui Eevee para Jolteon?",
     "opcoes": ["Pedra do Sol", "Pedra da Lua", "Pedra do Trovão", "Pedra da Água"],
-    "resposta": 1,
+    "resposta": 2,
     "programa": 2
   },
   {
@@ -50,7 +50,7 @@
   },
   {
     "id": 8,
-    "pergunta": "Qual destes Pokémon tem uma mega evolução?",
+    "pergunta": "Qual destes Pokémon tem apenas uma mega evolução?",
     "opcoes": ["Charizard", "Feraligatr", "Typhlosion", "Sceptile"],
     "resposta": 3,
     "programa": 2
@@ -191,7 +191,7 @@
   {
     "id": 28,
     "pergunta": "Qual destes Pokémon evolui com felicidade durante o dia?",
-    "opcoes": ["Eevee", "Budew", "Riolu", "Togepi"],
+    "opcoes": ["Gible", "Budew", "Riolu", "Togepi"],
     "resposta": 1,
     "programa": 2
   },
