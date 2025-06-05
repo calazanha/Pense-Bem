@@ -23,7 +23,7 @@
   {
     "id": 4,
     "pergunta": "Qual tipo é supereficaz contra Dragão?",
-    "opcoes": ["Gelo", "Elétrico", "Inseto", "Dragão"],
+    "opcoes": ["Fantasma", "Elétrico", "Inseto", "Dragão"],
     "resposta": 3,
     "programa": 2
   },
@@ -71,7 +71,7 @@
   },
   {
     "id": 11,
-    "pergunta": "Qual Pokémon mitológico pode ser encontrado na Ilha Navel?",
+    "pergunta": "Qual Pokémon mitológico pode ser encontrado na Ilha Distante?",
     "opcoes": ["Mew", "Celebi", "Jirachi", "Manaphy"],
     "resposta": 0,
     "programa": 2
@@ -120,9 +120,9 @@
   },
   {
     "id": 18,
-    "pergunta": "Qual Pokémon precisa segurar a Sea Incense para evoluir?",
-    "opcoes": ["Marill", "Azurill", "Clamperl", "Feebas"],
-    "resposta": 2,
+    "pergunta": "Qual destes Pokémon evolui usando uma Pedra da Lua?",
+    "opcoes": ["Clefairy", "Eevee", "Pikachu", "Machoke"],
+    "resposta": 0,
     "programa": 2
   },
   {
@@ -191,7 +191,7 @@
   {
     "id": 28,
     "pergunta": "Qual destes Pokémon evolui com felicidade durante o dia?",
-    "opcoes": ["Gible", "Budew", "Riolu", "Togepi"],
+    "opcoes": ["Gible", "Budew", "Meow", "Togepi"],
     "resposta": 1,
     "programa": 2
   },
