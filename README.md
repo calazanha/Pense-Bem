@@ -36,6 +36,7 @@ git clone https://github.com/calazanha/Pense-Bem.git
 
 # Instale as dependências
 npm install
+npm install react-icons
 
 # Inicie a aplicação
 npm start
