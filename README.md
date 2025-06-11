@@ -73,7 +73,7 @@ pense-bem/
 
 **Desenvolvido por Calazanha**  
 💡 Uma homenagem à infância e ao maior ícone do automobilismo brasileiro!  
-🎮 Jogue agora: [pense-bem-senninha.vercel.app](https://pense-bem-calazanha.vercel.app/)
+🎮 Jogue agora: [pense-bem-calazanha.vercel.app](https://pense-bem-calazanha.vercel.app/)
 ``` 
 
 Este README inclui:
