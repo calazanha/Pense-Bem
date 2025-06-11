@@ -97,7 +97,6 @@ h1, h2, h3 {
 
 @media (min-width: 1024px) {
   .app {
-    max-width: 1200px;
     padding: 40px;
   }
 }

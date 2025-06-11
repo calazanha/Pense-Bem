@@ -11,6 +11,14 @@ const StartScreen = ({ onStart, selectedProgram, setSelectedProgram }) => {
     setSelectedProgram(programNumber);
   };
 
+  const programNames = {
+    1: "Ayrton Senna",
+    2: "Pokémon",
+    3: "Futebol Brasileiro",
+    4: "Harry Potter",
+    5: "Star Wars"
+  };
+
   return (
     <div className="start-screen">
       <h1>PENSE BEM</h1>
@@ -18,7 +26,9 @@ const StartScreen = ({ onStart, selectedProgram, setSelectedProgram }) => {
       <div className="device-container">
         <div className="device-screen">
           <p>SELECIONE O PROGRAMA:</p>
-          <p className="selected-program">PROGRAMA {selectedProgram}</p>
+          <p className="selected-program">
+            {selectedProgram ? programNames[selectedProgram] : "Nenhum programa selecionado"}
+          </p>
         </div>
         
         <div className="program-buttons">
